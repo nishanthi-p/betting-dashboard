@@ -7,6 +7,8 @@ Simple online betting dashboard that displays a list of sports events, and the c
 
 2. **Starting Frontend**:
    - Run `cd betting-webui`
-   - Set up an Express endpoint to serve the data for the given ID.
-   - The endpoint should be able to accept a meter ID and return the corresponding data to the frontend.
+   - Run `npm install`
+   - Run `npm run dev` Application should be accessible from http://localhost:3001/
+
+
    
